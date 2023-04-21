@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">How long before the release of ... ?</string>
+    <string name="appwidget_text">Insert text</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Number of days left before the release of TOTK</string>
+    <string name="main_1">Il n\'y a rien à faire ici. Vous pouvez quitter l\'application pour ajouter le widget depuis le menu de votre téléphone.</string>
+    <string name="lien_guthib">https://github.com/Ashokaas/How-long-before-the-release-of</string>
+    <string name="main_2">Comment ajouter un widget sur la plupart des téléphones ?</string>
+    <string name="main_2_tuto_1">● Aller sur le menu de votre téléphone</string>
+    <string name="main_2_tuto_2">● Faire un appui long sur un espace vide</string>
+    <string name="main_2_tuto_3">● Cliquer sur "widget"</string>
+    <string name="main_2_tuto_4">● Faire défiler jusqu\'à trouver le widget souhaité</string>
+    <string name="exit_button">Quitter l\'application</string>
+</resources>

@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+
+    <ImageView
+        android:id="@+id/my_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/link2" />
+
+    <TextView
+        android:id="@+id/appwidget_text"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="250dp"
+        android:text="X Jours restants"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-black"
+        android:textSize="24sp"
+        android:lineSpacingExtra="4dp"
+        android:hyphenationFrequency="none"/>
+
+
+</RelativeLayout>
